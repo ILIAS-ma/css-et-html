@@ -1,0 +1,62 @@
+/*
+commentaire 
+*/
+/*
+selecteur{
+    propriete:valeur;
+    propriete:valeur;
+    propriete:valeur;
+    propriete:valeur;
+}
+
+*/   
+
+body{
+    background-image: url(img/Mercedes-Benz-C63_AMG_Coupe_Black_Series-2012-1600-5e.jpg);
+    backface-visibility: visible;
+    background-repeat: no-repeat;
+   
+}
+    
+h1{
+    color: rgb(0, 255, 255);
+}
+p{
+    color: rgb(43, 131, 226);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+/*selecteur d id */ 
+#lorem1{
+    color: orangered;
+}
+/*selecteur de class*/
+.multiple{
+    color: hotpink;
+}
+/*selecteur de dimention de l image*/ /* contour de l image couleur > */
+img{
+width: auto;
+border: 1px solid rgb(98, 213, 10);
+}
+spam{
+    color: honeydew;
+}
+body{
+    text-align: center;
+}
+a{
+    color:mintcream
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    font-size: xx-large;
+}
+
+
+body{
+    text-transform: lowercase;
+}
